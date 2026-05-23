@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmed-r-a/Ahmed-r-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer | TypeScript · React · Node.js · Firebase
 
-Here are some ideas to get you started:
+I build production-ready web applications with a focus on security,
+clean architecture, and great user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Current Project
+**[Wosool](https://github.com/ahmed-r-a/Wosool)** — A full-stack SaaS platform with 
+integrated payments (Stripe + Moyasar), Firebase Auth, and an ATS module.
+Built with React 19, TypeScript, Express, and deployed on Vercel.
+
+## 🛠️ Tech Stack
+**Frontend:** React 19, TypeScript, Tailwind CSS, Vite  
+**Backend:** Node.js, Express, Firebase Admin SDK  
+**Database:** Firestore (Firebase)  
+**Payments:** Stripe, Moyasar  
+**DevOps:** Vercel, Firebase Hosting  
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL)
