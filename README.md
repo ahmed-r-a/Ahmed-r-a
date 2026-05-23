@@ -18,5 +18,5 @@ Built with React 19, TypeScript, Express, and deployed on Vercel.
 **DevOps:** Vercel, Firebase Hosting  
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ahmad-al-mutairi-5a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ahmad-al-mutairi)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](ahmed.rashed.almutairi@gmail.com)
