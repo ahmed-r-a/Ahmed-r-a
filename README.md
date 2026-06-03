@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 👋
 
-Full-Stack Software Engineer | TypeScript · React · Node.js · Firebase
+Full-Stack Developer | TypeScript · React · Node.js · Firebase
 
 I build production-ready web applications with a focus on security,
 clean architecture, and great user experience.
